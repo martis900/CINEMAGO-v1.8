@@ -1,0 +1,529 @@
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.pdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.dll
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.xml
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/layout/main.xml
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/values/strings.xml
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/drawable/icon.png
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/R.cs.flag
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/uploadflags.txt
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Java.Interop.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Mono.Android.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Mono.CSharp.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/mscorlib.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.Core.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.Xml.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/CINEMAGO.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/Mono.CSharp.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll.mdb
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.pdb
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.dll
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.xml
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/res/layout/main.xml
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/res/values/strings.xml
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/res/drawable/icon.png
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/R.cs.flag
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/uploadflags.txt
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll.mdb
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/android/assets/CINEMAGO.dll.mdb
+C:/Users/martis900/Documents/Visual Studio 2017/Projects/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll.mdb
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/res/layout/main.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/res/values/strings.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/R.cs.flag
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CINEMAGO/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/RestSharp.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/RestSharp.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/layout/main.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/values/strings.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/drawable/icon.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/res/drawable/sr
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/R.cs.flag
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/uploadflags.txt
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.0/CINEMAGO/obj/Debug/CINEMAGO.dll.mdb
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.1/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.2/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.3/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/RestSharp.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/RestSharp.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/drawable/searchicon
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/moviesfragmentlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/main.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/values/strings.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/drawable/icon.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/res/drawable/sr
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/R.cs.flag
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/uploadflags.txt
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.4/CINEMAGO/obj/Debug/CINEMAGO.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Xamarin.Android.Support.v17.Leanback.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/moviesfragmentlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Volumes/Samsung_T3/DEV/APPS/CINEMAGO/CODE/CINEMAGO v1.5/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/RestSharp.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/RestSharp.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/CINEMAGO.dll
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/CINEMAGO.pdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/drawable/searchicon
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/moviesfragmentlayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/main.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/values/strings.xml
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/drawable/icon.png
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/res/drawable/sr
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/R.cs.flag
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/uploadflags.txt
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/CINEMAGO.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Microsoft.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Mono.CSharp.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.IO.Compression.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/Admin/Documents/Visual Studio 2015/Projects/CINEMAGO v1.6/CINEMAGO/obj/Debug/CINEMAGO.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/moviesfragmentlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.7/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/CINEMAGO.CINEMAGO-Signed.apk
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Newtonsoft.Json.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/RestSharp.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Newtonsoft.Json.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/RestSharp.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.pdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Plugin.Connectivity.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/CINEMAGO.csprojResolveAssemblyReference.cache
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/CINEMAGO.csproj.CoreCompileInputs.cache
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/CINEMAGO.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/CINEMAGO.pdb
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/android/bin/CINEMAGO.CINEMAGO.apk
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/searchlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/searchicon
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/searchitemlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/cinemago_icon.png
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/cinemago_icon_2.png
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/moviesfragmentlayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/main.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/movietvitem.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/layout/fullmovielayout.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/values/strings.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/icon.png
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/sr
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/R.cs.flag
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/uploadflags.txt
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/drawable/splash.xml
+/Users/martis900/Desktop/CINEMAGO v1.8/CINEMAGO/obj/Debug/res/values/styles.xml
